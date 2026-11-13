@@ -30,5 +30,5 @@ Siga os comandos abaixo no seu terminal para configurar o ambiente virtual e col
 
 ### 1. Clonar o Repositório
 ```bash
-git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-cd SEU-REPOSITORIO
+git clone [https://github.com/ArthrL/trabalho-es2.git](https://github.com/ArthrL/trabalho-es2.git)
+cd trabalho-es2
