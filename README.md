@@ -5,14 +5,14 @@ Repositório oficial do back-end e motor de processamento do sistema desenvolvid
 ---
 
 ## 🎯 Sobre o Projeto
-A aplicação resolve a invisibilidade das pequenas despesas diárias (os chamados **"gastos fantasmas"**, como delivery, aplicativos de transporte e assinaturas digitais) que se acumulam de forma imperceptível no orçamento[cite: 9, 12]. O sistema atua de forma automatizada, convertendo descrições confusas de faturas bancárias em categorias claras e gerando alertas proativos com **zero esforço manual** por parte do usuário[cite: 10, 12].
+A aplicação resolve a invisibilidade das pequenas despesas diárias (os chamados **"gastos fantasmas"**, como delivery, aplicativos de transporte e assinaturas digitais) que se acumulam de forma imperceptível no orçamento[cite: 9, 12]. O sistema atua de forma automatizada, convertendo descrições confusas de faturas bancárias em categorias claras e gerando alertas proativos com **zero esforço manual** por parte do usuário.
 
 ---
 
 ## 👥 Equipe do Projeto
-* **Arthur Luis Cipriano Silva Lopes** — *Motor de Processamento & Back-end (Fase 2)*[cite: 14]
-* **Andre Luis Freire Batista** — *Módulo de Integração / Open Finance & Segurança (Fase 1)*[cite: 14]
-* **Josivan Carvalho Brito** — *Interface, Dashboard & Proatividade (Fase 3)*[cite: 14]
+* **Arthur Luis Cipriano Silva Lopes** — *Motor de Processamento & Back-end (Fase 2)*
+* **Andre Luis Freire Batista** — *Módulo de Integração / Open Finance & Segurança (Fase 1)*
+* **Josivan Carvalho Brito** — *Interface, Dashboard & Proatividade (Fase 3)*
 
 ---
 
